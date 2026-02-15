@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+transformers==4.57.6
+torch==2.2.2
+numpy==1.26.4
+safetensors
